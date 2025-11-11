@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "enabled": true,
+  "show_after": 1760878080000,
+  "title": "✅ Prueba Finalizada",
+  "message": "🚀 Para seguir usando nuestro Mod:\n1) Contáctanos por WhatsApp \n2) Activamos tu membresía en segundos\n",
+  "style": {
+    "background_color": "#FFF7FBFF",
+    "title_color": "#FF2196F3",
+    "message_color": "#FF0A2A45",
+    "button_style": "modern"
+  }
+}
